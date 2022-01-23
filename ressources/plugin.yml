@@ -1,0 +1,12 @@
+name: SetHome
+author: mat_sama
+version: 1.0
+description: Permet de créer des points de téléportation et de s'y téléporter.
+main: fr.mat_sama.sethome.Main
+commands:
+  sethome:
+    description: Permet de créer un point de téléportation.
+  home:
+    description: Permet de se téléporter à son home.
+  delhome:
+    description: Permet de supprimer un home.
