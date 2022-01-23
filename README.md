@@ -1,4 +1,5 @@
 # SetHome-Spigot
+***
 It's a basic SetHome plugin for Spigot 1.8.9+ .
 
 ## Author
